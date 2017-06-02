@@ -35,7 +35,7 @@ python path.
 
 For more details on this see the :ref:`faq`.
 
-It is also possible to call Pylint from an other python program,
+It is also possible to call Pylint from another python program,
 thanks to ``py_run()`` function in ``epylint`` module,
 assuming Pylint options are stored in ``pylint_options`` string, as:
 
